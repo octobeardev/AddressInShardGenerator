@@ -1,0 +1,18 @@
+{
+  "name": "addressinshardgenerator",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "gen.js",
+  "scripts": {
+    "start": "node gen.js"
+  },
+  "author": "https://github.com/octobeardev",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ton/core": "^0.59.0",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.1.0",
+    "buffer": "^6.0.3"
+  }
+}
