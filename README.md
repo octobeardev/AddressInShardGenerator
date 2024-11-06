@@ -50,5 +50,5 @@ For stop script press *Ctrl+C*
 #### Support the Author:
 
 - **TON/USDT (TON):** UQDkQuLoNGwQEvW2L6DpMKjmoEiAB2tgosusb8_OCJyYvaQm
-- **BTC:** bc1qhnz24drcka68zs8c0duj2ye94hphtcp7efgs7r
 - **TRX/USDT (TRC20):** TV4v6qwTSsdbvum2BjN14ti9LpFsP5N5tt
+- **BTC (Bitcoin):** bc1qhnz24drcka68zs8c0duj2ye94hphtcp7efgs7r
